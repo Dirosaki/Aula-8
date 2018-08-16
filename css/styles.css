@@ -253,7 +253,7 @@ p{
 }
 
 #botaozinho:focus::placeholder{
-    visibility: hidden;    
+    visibility: hidden;  /*apg placeholder*/  
 }
 
 .ajustinho {
